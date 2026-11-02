@@ -1,16 +1,18 @@
-## Hi there 👋
+# Muhammad Sheraz
 
-<!--
-**Muhammad5heraz/Muhammad5heraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Plant molecular biologist working at the interface of genomics and bioinformatics. I characterize transcription factor gene families at genome scale and study how they respond to abiotic stress, with all analysis written in Python.
 
-Here are some ideas to get you started:
+### Research focus
+- Genome-wide identification and characterization of plant transcription factor families
+- Phylogenetics, gene structure, motif and cis-regulatory element analysis
+- Stress-responsive expression profiling (RNA-seq mining, qRT-PCR)
+- Reproducible bioinformatics pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+- **Genome-wide characterization of the G2-like (GLK) transcription factor family in Persian walnut (*Juglans regia*)** — accepted, *Integrative Plant Biotechnology*
+
+### Toolkit
+Python (Biopython, pandas, NumPy, SciPy, matplotlib/seaborn) · HMMER · MEME · MEGA/IQ-TREE · PlantCARE · TBtools-equivalent workflows in Python
+
+### Find me
+[ORCID](https://orcid.org/0009-0007-3877-2232) · [LinkedIn](https://www.linkedin.com/in/muhammad-sheraz)
