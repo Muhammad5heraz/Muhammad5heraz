@@ -1,18 +1,31 @@
-# Muhammad Sheraz
+# Hi, I'm Muhammad Sheraz 👋
 
-Plant molecular biologist working at the interface of genomics and bioinformatics. I characterize transcription factor gene families at genome scale and study how they respond to abiotic stress, with all analysis written in Python.
+**Plant molecular biologist | Computational genomics & bioinformatics**
+Faisalabad, Pakistan · [ORCID](https://orcid.org/0009-0007-3877-2232) · [LinkedIn](https://www.linkedin.com/in/muhammad-sheraz)
 
-### Research focus
-- Genome-wide identification and characterization of plant transcription factor families
-- Phylogenetics, gene structure, motif and cis-regulatory element analysis
-- Stress-responsive expression profiling (RNA-seq mining, qRT-PCR)
-- Reproducible bioinformatics pipelines
+I study how plants cope with stress, using genomics, phylogenetics and Python pipelines to ask which genes matter and why.
 
-### Selected work
-- **Genome-wide characterization of the G2-like (GLK) transcription factor family in Persian walnut (*Juglans regia*)** — accepted, *Integrative Plant Biotechnology*
+> Wonder first. Answers later.
 
-### Toolkit
-Python (Biopython, pandas, NumPy, SciPy, matplotlib/seaborn) · HMMER · MEME · MEGA/IQ-TREE · PlantCARE · TBtools-equivalent workflows in Python
+## 🔬 What I work on
+- Genome-wide identification and evolution of transcription factor gene families
+- Promoter and regulon analysis, synteny and Ka/Ks selection
+- RNA-seq re-analysis from raw reads under uniform pipelines
+- Stress-responsive gene regulation in crops and woody perennials
 
-### Find me
-[ORCID](https://orcid.org/0009-0007-3877-2232) · [LinkedIn](https://www.linkedin.com/in/muhammad-sheraz)
+## 📄 Selected work
+- **GLK transcription factors in Persian walnut** (first author), *Integrative Plant Biotechnology*, 2026. [DOI: 10.55627/pbiotech.004.03.2010](https://doi.org/10.55627/pbiotech.004.03.2010)
+- **BBR-BPC family in soybean under salinity.** Presented at the 2nd BSP Congress, 2026. Manuscript in preparation.
+- **CRISPR–nanoparticle delivery in plant pathogens** (co-author), *Multidisciplinary Surgical Research Annals*, 2026. [Article](https://msrajournalreview.com/index.php/Journal/article/view/482)
+
+## 🧰 Open-source tools
+- [**promoter-motif-scanner**](https://github.com/Muhammad5heraz/promoter-motif-scanner): scan promoters for IUPAC motifs on both strands and flag motif co-occurrence. Pure Python.
+
+## 🛠️ Toolbox
+**Genomics:** HMMER, BLAST, MCScanX, IQ-TREE 2, MEGA, MEME Suite
+**Transcriptomics:** fastp, HISAT2, Bowtie2, featureCounts, DESeq2 / pydeseq2
+**Code:** Python (pandas, NumPy, SciPy, BioPython), Bash, Linux, Conda, Git
+**Structure:** HDOCK, AlphaFold
+
+## 📫 Reach me
+anshshoukat@gmail.com
