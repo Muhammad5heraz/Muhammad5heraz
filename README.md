@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Sheraz 👋
 
 **Plant molecular biologist | Computational genomics & bioinformatics**
-Faisalabad, Pakistan · [ORCID](https://orcid.org/0009-0007-3877-2232) · [LinkedIn](https://www.linkedin.com/in/muhammad-sheraz)
+Faisalabad, Pakistan · [ORCID](https://orcid.org/0009-0007-3877-2232) · [LinkedIn](https://www.linkedin.com/in/muhammad-sheraz-9138302b9)
 
 I study how plants cope with stress, using genomics, phylogenetics and Python pipelines to ask which genes matter and why.
 
