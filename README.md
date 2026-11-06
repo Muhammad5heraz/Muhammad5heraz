@@ -1,7 +1,9 @@
 # Hi, I'm Muhammad Sheraz 👋
 
 **Plant molecular biologist | Computational genomics & bioinformatics**
-Faisalabad, Pakistan · [ORCID](https://orcid.org/0009-0007-3877-2232) · [LinkedIn](https://www.linkedin.com/in/muhammad-sheraz-9138302b9)
+Faisalabad, Pakistan · [ORCID](https://orcid.org/0009-0007-3877-2232) · [LinkedIn](https://www.linkedin.com/in/muhammad-sheraz-9138302b9) · [Portfolio](https://muhammad5heraz.github.io/portfolio/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammad5heraz.github.io%2Fportfolio-F3C98B?style=for-the-badge&labelColor=0C0F16)](https://muhammad5heraz.github.io/portfolio/)
 
 I study how plants cope with stress, using genomics, phylogenetics and Python pipelines to ask which genes matter and why.
 
@@ -29,3 +31,5 @@ I study how plants cope with stress, using genomics, phylogenetics and Python pi
 
 ## 📫 Reach me
 anshshoukat@gmail.com
+
+<sub>© 2026 Muhammad Sheraz. All rights reserved.</sub>
